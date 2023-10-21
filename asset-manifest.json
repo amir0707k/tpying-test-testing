@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tpying-test-testing/static/css/main.98ec47ca.css",
+    "main.js": "/tpying-test-testing/static/js/main.b4f6e69d.js",
+    "index.html": "/tpying-test-testing/index.html",
+    "main.98ec47ca.css.map": "/tpying-test-testing/static/css/main.98ec47ca.css.map",
+    "main.b4f6e69d.js.map": "/tpying-test-testing/static/js/main.b4f6e69d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98ec47ca.css",
+    "static/js/main.b4f6e69d.js"
+  ]
+}
